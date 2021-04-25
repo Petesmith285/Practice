@@ -1,0 +1,64 @@
+.container {
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.pattern img {
+    width: 100%;
+    border-radius: 10px;
+}
+.picture {
+    background: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    padding: 5px;
+    transform: translate(150px,-60px);
+   
+}
+.picture img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.name {
+    text-align: center;
+    padding: 0;
+    margin: 0;     
+}
+.name p {
+    margin-top: 0;
+    color:hsl(0, 0%, 59%) ;
+}
+
+.stats {
+   display: inline-flex;
+   height: 200px;
+}
+
+
+.box1{
+   
+    padding: 25px;
+}
+.box1 p {
+    color:hsl(0, 0%, 59%) ;
+}
+.box2 {
+   padding: 25px;
+}
+.box2 p {
+    color:hsl(0, 0%, 59%) ;
+}
+.box3 {
+   padding: 25px;
+}
+.box3 p {
+    color:hsl(0, 0%, 59%) ;
+}
